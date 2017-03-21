@@ -1,7 +1,7 @@
 # Site settings
 title: Técnico em Informática para Internet - SENAC
 description: Júnior Messias
-baseurl: "" #
+baseurl: "http://senac.jrmessias.github.io" #
 url: ""
 
 # User settings
