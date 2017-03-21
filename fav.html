@@ -1,0 +1,12 @@
+---
+layout: minimal
+title: "Favoritos"
+class: fav
+description: "Links favoritos"
+---
+
+<ul class="post-list">
+  {% for fav in site.data.bookmarks %}
+    <li><a href="{{ fav.url }}">{{ fav.title }} - {{ fav.info }}</a></li>
+  {% endfor %}
+</ul>

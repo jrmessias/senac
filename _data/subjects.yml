@@ -1,0 +1,39 @@
+- title: HTML
+  extended: Hypertext Markup Language
+  slug: html
+  class: html  
+
+- title: CSS
+  extended: Cascading Style Sheets
+  slug: css
+  class: css  
+  
+- title: Animações
+  extended: Animações para web
+  slug: animacoes
+  class: animacoes 
+  
+- title: Cliente/Servidor
+  extended: Aplicações Cliente/Servidor
+  slug: cs
+  class: cs
+  
+- title: POO PHP
+  extended: Programação Orientada a Objetos com PHP
+  slug: poo-php
+  class: poo-php
+
+- title: Ambiente Web
+  extended: Programação Multiplataforma em Ambiente Web
+  slug: web
+  class: web
+  
+- title: Content Management System
+  extended: Content Management System
+  slug: cms
+  class: cms
+  
+- title: Favoritos
+  extended: Links favoritos
+  slug: fav
+  class: fav

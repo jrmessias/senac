@@ -1,0 +1,57 @@
+- title: Mockaroo
+  url: https://www.mockaroo.com/
+  info: Gerador de dados para simulação
+  
+- title: Bootstrap
+  url: http://getbootstrap.com/
+  info: Framework HTML, CSS e JS
+  
+- title: Test Mobile with Google
+  url: https://testmysite.thinkwithgoogle.com/
+  info: Ferramenta de teste de velocidade para mobile
+  
+- title: PHP do Jeito Certo
+  url: http://br.phptherightway.com/
+  info: Como escrever código em PHP
+  
+- title: JS do Jeito Certo
+  url: http://jstherightway.org/pt-br/
+  info: Como escrever código em JS
+  
+- title: Design Patterns
+  url: https://sourcemaking.com/design-patterns-ebook
+  info: Padrões de projeto de software
+  
+- title: Design Patterns PHP
+  url: https://github.com/domnikl/DesignPatternsPHP
+  info: Padrões de projeto de software em PHP
+  
+- title: Mockingbird
+  url: https://gomockingbird.com
+  info: Criação de wireframes
+  
+- title: Draw.io
+  url: https://draw.io
+  info: Geração online de diagramas
+  
+- title: MeetingWords
+  url: http://meetingwords.com
+  info: Editor de texto colaborativo
+  
+- title: Dontpad
+  url: http://dontpad.com
+  info: Bloco de notas on-line
+  
+- title: Git Commit Message
+  url: http://slashsbin.com/styleguide-git-commit-message/
+  info: Padrões para mensagens de commit no git
+  
+- title: Available Grammar
+  url: http://slashsbin.com/styleguide-todo-grammar/
+  info: Guia de estilo para grámatica em commit git
+  
+- title: Emoji Cheat Sheet
+  url: https://www.webpagefx.com/tools/emoji-cheat-sheet/
+  info: Emojis para uso diverso
+  
+

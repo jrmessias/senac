@@ -1,0 +1,18 @@
+---
+layout: minimal
+title: "POO-PHP"
+class: poo-php
+description: "Programação Orientada a Objetos com PHP"
+---
+
+<ul class="post-list">
+    {% for post in site.posts %}
+      {% if post.categories[0] == "poo-php" %}
+        <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></a></li>
+      {% endif %}
+    {% endfor %}
+    {% assign total = site.categories.poo-php | size %}
+    {% if total == 0 %}
+      Ops!
+    {% endif %}
+</ul>
